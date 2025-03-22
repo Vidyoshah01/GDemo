@@ -1,5 +1,2 @@
 # GDemo
-this is the demo session.
-hii there!
-hello world.
-hii
+This is the demo session.
